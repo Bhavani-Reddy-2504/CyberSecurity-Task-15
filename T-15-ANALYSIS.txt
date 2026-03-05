@@ -1,0 +1,30 @@
+Task 15 – Vulnerability Assessment Analysis
+
+Objective:
+Perform vulnerability assessment and prioritize security risks.
+
+Tool Used:
+Nmap vulnerability scanner on Kali Linux.
+
+Process Performed:
+
+1. Identified the target system (localhost).
+2. Performed service detection scan.
+3. Conducted aggressive scan for OS and service information.
+4. Executed vulnerability scripts.
+5. Reviewed scan results.
+6. Demonstrated CVE and CVSS mapping methodology.
+7. Classified vulnerabilities based on risk level.
+8. Proposed remediation strategies.
+
+Findings:
+No open ports were identified on the system. This indicates that no external services are exposed, reducing the attack surface.
+
+Risk Analysis:
+Even when vulnerabilities are not present, security assessments must include evaluation of potential threats and prioritization strategies.
+
+Remediation Strategy:
+Maintain updated software, apply security patches regularly, and follow secure system configuration practices.
+
+Conclusion:
+The system currently shows minimal exposure to network-based vulnerabilities. The assessment successfully demonstrates vulnerability identification, risk classification, and remediation planning.
